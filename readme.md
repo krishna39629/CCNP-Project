@@ -4,7 +4,7 @@ Full course list: [Cisco CCNP Enterprise](https://pluralsight.pxf.io/jWDbKe)
 
 ## Course Exercise files
 
-*If you encounter any issues with lab configurations, please [email me directly](mailto:punk.desk7296@fastmail.com).*
+*If you encounter any issues with lab configurations, please [email me directly](mailto:sahu39629@gmail.com).*
 
 [Basic Networking and IP Fundamentals](basic-networking-ip-fundamentals)
 
